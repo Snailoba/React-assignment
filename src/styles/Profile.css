@@ -1,0 +1,20 @@
+.Prof {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 40%;
+}
+.Prof:hover {
+    border: 2px solid red;
+}
+.Prof:hover h2 {
+    color: red;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
